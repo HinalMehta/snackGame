@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Routing from './components/Routing';
+import Game from './Components/game/Game';
 
-ReactDOM.render(<Routing/>,document.getElementById('root'));
+ReactDOM.render(<Game/>,document.getElementById('root'));
